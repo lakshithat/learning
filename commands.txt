@@ -1,0 +1,357 @@
+    1  sudo apt update
+    2  sudo apt upgrade
+    3  sudo apt install python 3
+    4  pip install python 3
+    5  sudo apt install python3
+    6  mkdir facial
+    7  mkdir facialclient
+    8  makdir server
+    9  mkdir server
+   10  ls
+   11  rm -rf facial client
+   12  ls
+   13  rm -rf server
+   14  ls
+   15  rm -rf facialclient
+   16  mkdir facial
+   17  cd facial/
+   18  mkdir client
+   19  mkdir server
+   20  ls
+   21  cd client/
+   22  code .
+   23  ls
+   24  cd src
+   25  ls
+   26  cd ..
+   27  cd client
+   28  code .
+   29  ls
+   30  cd src
+   31  ls
+   32  code .
+   33  npm install
+   34  sudo apt install npm
+   35  npm init
+   36  sudo apt install npmL
+   37  npm install
+   38  sudo apt install npm
+   39  nmp init
+   40  npm init
+   41  npm install
+   42  npm init
+   43  npm run serve
+   44  npm install vue-cli-service
+   45  npm install vue cli
+   46  npm run serve
+   47  npm install vue-cli-service
+   48  npm install -g @vue/cli
+   49  vue create my-project
+   50  sudo snap install vue
+   51  npm run serve
+   52  sudo snap install vue
+   53  npm install -g @vue/cli
+   54  sudo npm <-g @vue/cli>
+   55  sudo npm -g @vue/cli 
+   56  npm install -g @vue/cli
+   57  sudo npm install -g @vue/cli
+   58  npm config set prefix ~/.npm-global
+   59  export PATH=~/.npm-global/bin:$PATH
+   60  npm install -g @vue/cli
+   61  npm run serve
+   62  npm install @vue-cli-service
+   63  npm install vue-cli-service@latest
+   64  npm install vue-cli --save-dev
+   65  npm install vue-cli-service --save-dev
+   66  npm install -g @vue/cli
+   67  npm run serve
+   68  npm install @vue/cli-service --save-dev
+   69  npm run serve
+   70  npm install vue@3.2.13
+   71  npm run serve
+   72  python3 app.py
+   73  pip install flask
+   74  sudo apt install python3-pip 
+   75  python3 app.py
+   76  sudo apt install python3-pip install flask
+   77  pip install flask
+   78  pip install dlib
+   79  import cv2
+   80  pip install cv2
+   81  pip install dlib
+   82  sudo apt-get install cmake
+   83  pip install dlib
+   84  pip install cv2
+   85  pip install opencv-python
+   86  pip install numpy
+   87  import numpy as np
+   88  pip install base64
+   89  pip install io
+   90  ls
+   91  cd facial
+   92  ls
+   93  cd server
+   94  code .
+   95  ls
+   96  code .
+   97  ls
+   98  ssh-keygen -t ed25519 -C "tlakshitha28@gmail.com"
+   99  $ eval "$(ssh-agent -s)"
+  100  > Agent pid 59566
+  101  sudo -s -H
+  102  ls
+  103  cd ~/.ssh/
+  104  ls
+  105  cd ..
+  106  ls
+  107  eval "$(ssh-agent -s)"
+  108  ssh-add ~/.ssh/id_ed25519
+  109  cat ~/.ssh/id_ed25519.pub
+  110  ssh -T git@github.com
+  111  sudo  ssh -T git@github.com
+  112  ssh-add -l
+  113  sudo  ssh -T git@github.com
+  114  ssh-add -l
+  115  ssh-add ~/.ssh/id_ed25519
+  116  ssh -T git@github.com
+  117  git clone "git@github.com:gadjoy/projects.git"
+  118  ls
+  119  cd projects/
+  120  ls
+  121  cd facial_analysis/
+  122  cd server/
+  123  code .
+  124  git branch
+  125  git status
+  126  git branch -a
+  127  cd ..
+  128  ls
+  129  cd ..
+  130  git branch
+  131  cd projects
+  132  git branch
+  133  git branch practiice1
+  134  git status
+  135  git branch -a
+  136  git branch lakshitha/freelancer/dev
+  137  git branch -a
+  138  pip -r  install requirements.txt 
+  139  pip install -r  requirements.txt 
+  140  sudo apt install python3-pip
+  141  python3.10 -m pip install virtualenv
+  142  python3.10 -m virtualenv .venv
+  143  python /home/lakshitha12/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/printEnvVariablesToFile.py /home/lakshitha12/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/deactivate/bash/envVars.txt
+  144  /bin/python3 /home/lakshitha12/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/printEnvVariablesToFile.py /home/lakshitha12/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/deactivate/bash/envVars.txt
+  145  sudo apt install python3-pip
+  146  python3.10 -m pip install virtualenv
+  147  python3.10 -m virtualenv .venv
+  148  touch .env
+  149  pip install python-dotenv
+  150  pip install requests
+  151  pip install python-dotenv
+  152  pip install requests
+  153  cd ..
+  154  touch .env
+  155  cd quiz_generator/
+  156  pip install python-dotenv
+  157  cd path/to/your/project/directory
+  158  touch .env
+  159  ls
+  160  cd projects
+  161  cd quiz_generator/
+  162  code.
+  163  code .
+  164  git clone "git@github.com:gadjoy/projects.git"
+  165  code .
+  166  sudo apt install python3-pip
+  167  python3.10 -m pip install virtualenv
+  168  python3.10 -m virtualenv .venv
+  169  code .
+  170  git branch -a
+  171  git checkout lakshitha/freelancer/dev 
+  172  git add .
+  173  git commit origin lakshitha/freelancer/dev
+  174  git commit -m ("quiz generator')
+  175  git commit -m ("quiz generator")
+  176  git commit -m "add a quiz generator project"
+  177  git config --global user.email "tlakshitha28@gmailcom"
+  178  git commit -m "add a quiz generator project"
+  179  git push origin lakshitha/freelancer/dev 
+  180  git status
+  181  git clone "git@github.com:gadjoy/projects.git"
+  182  code .
+  183  cd ..
+  184  git status
+  185  git add *
+  186  git commit -m "explore and output image"
+  187  git status
+  188  ls
+  189  cd server/
+  190  code .
+  191  cd projects\
+  192  /bin/python3 /home/lakshitha12/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/printEnvVariablesToFile.py /home/lakshitha12/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/deactivate/bash/envVars.txt
+  193  cd projects/
+  194  cd chatbot_testing/
+  195  code .
+  196  sudo apt install python3-pip
+  197  python3.10 -m pip install virtualenv
+  198  python3.10 -m virtualenv .venv
+  199  cd ..
+  200  cd facial_analysis/
+  201  code .
+  202  cd ..
+  203  cd quiz_generator/
+  204  code .
+  205  cd ..
+  206  pip install google
+  207  pip install python-dotenv
+  208  pip install google
+  209  touch .env
+  210  pip install requests
+  211  pip install <generativeai>
+  212  /bin/python3 /home/lakshitha12/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/printEnvVariablesToFile.py /home/lakshitha12/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/deactivate/bash/envVars.txt
+  213  cd projects/
+  214  cd chatbot_testing/
+  215  code ..
+  216  code .
+  217  /bin/python3 /home/lakshitha12/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/printEnvVariablesToFile.py /home/lakshitha12/.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/deactivate/bash/envVars.txt
+  218  pip install openai
+  219  pip install python-dotenv
+  220  pip install openai==0.28
+  221  pip install google-cloud-language
+  222  /bin/python3 /home/lakshitha12/.vscode-server/extensions/ms-python.python-2024.4.0/python_files/printEnvVariablesToFile.py /home/lakshitha12/.vscode-server/extensions/ms-python.python-2024.4.0/python_files/deactivate/bash/envVars.txt
+  223  /bin/python3 /home/lakshitha12/.vscode-server/extensions/ms-python.python-2024.4.0/python_files/printEnvVariablesToFile.py /home/lakshitha12/.vscode-server/extensions/ms-python.python-2024.4.0/python_files/deactivate/bash/envVars.txt
+  224  cd projects
+  225  cd chatbot_testing/
+  226  code .
+  227  sudo apt install python3-pip
+  228  python3.10 -m pip install virtualenv
+  229  python3.10 -m virtualenv .venv
+  230  cd ..
+  231  code .
+  232  cd course
+  233  code .
+  234  sudo apt install python3-pip
+  235  cd ..
+  236  cd chatbot_testing/
+  237  code .
+  238  pip install tensorflow
+  239  /bin/python3 /home/lakshitha12/.vscode-server/extensions/ms-python.python-2024.4.0/python_files/printEnvVariablesToFile.py /home/lakshitha12/.vscode-server/extensions/ms-python.python-2024.4.0/python_files/deactivate/bash/envVars.txt
+  240  pip install tensorflow-hub
+  241  pip install keras opencv-python
+  242  cd projects
+  243  cd facial_analysis/
+  244  code .
+  245  sudo apt install python3-pip
+  246  python3.10 -m pip install virtualenv
+  247  python3.10 -m virtualenv .venv
+  248  code .
+  249  cd ..
+  250  cd quiz_generator/
+  251  code .
+  252  cd ..
+  253  cd facial_analysis/
+  254  code .
+  255  cd ..
+  256  cd chatbot_testing/
+  257  code .
+  258  cd ..
+  259  cd course/
+  260  code .
+  261  cd projects
+  262  cd facial_analysis/
+  263  code .
+  264  cd ..
+  265  cd quiz_generator/
+  266  code .
+  267  cd ..
+  268  git clone "git@github.com:gadjoy/projects.git"
+  269  cd chat_assistant
+  270  ls
+  271  git merge chat_assitant
+  272  git pull origin master
+  273  git branch lakshitha/freelancer/dev 
+  274  git brnch -a
+  275  git branch -a
+  276  git checkout master
+  277  git add .
+  278  git add.
+  279  git commit -m "commit the changes"
+  280  git add .
+  281  git commit -a
+  282  /bin/python3 /home/lakshitha12/.vscode-server/extensions/ms-python.python-2024.4.0/python_files/printEnvVariablesToFile.py /home/lakshitha12/.vscode-server/extensions/ms-python.python-2024.4.0/python_files/deactivate/bash/envVars.txt
+  283  pip install pandas
+  284  pip install scikit-learn
+  285  /bin/python3 /home/lakshitha12/.vscode-server/extensions/ms-python.python-2024.4.0/python_files/printEnvVariablesToFile.py /home/lakshitha12/.vscode-server/extensions/ms-python.python-2024.4.0/python_files/deactivate/bash/envVars.txt
+  286  pip install requests
+  287  pip install python-dotenv
+  288  pip install requests
+  289  pip install textblob
+  290  git status
+  291  cd projects/
+  292  git status
+  293  git add.
+  294  git add .
+  295  git commit -m "commit the changes"
+  296  git status
+  297  git branch
+  298  git merge master
+  299  git merge origin master
+  300  ls
+  301  cd chat_assistant/
+  302  code .
+  303  sudo apt install python3-pip
+  304  python3.10 -m pip install virtualenv
+  305  python3.10 -m virtualenv .venv
+  306  cd ..
+  307  cd quiz_generator/
+  308  code .
+  309  /bin/python3 /home/lakshitha12/.vscode-server/extensions/ms-python.python-2024.4.0/python_files/printEnvVariablesToFile.py /home/lakshitha12/.vscode-server/extensions/ms-python.python-2024.4.0/python_files/deactivate/bash/envVars.txt
+  310  cd projects/
+  311  cd quiz_generator/
+  312  code .
+  313  cd projects/
+  314  cd quiz_generator/
+  315  code .
+  316  cd ..
+  317  cd projects/
+  318  cd chatbot_testing/
+  319  code .
+  320  cd ..
+  321  cd chat_assistant/
+  322  code .
+  323  cd ..
+  324  cd quiz_generator/
+  325  code .
+  326  cd ..
+  327  cd course/
+  328  code .
+  329  cd ..
+  330  ls
+  331  mv projects/course learning/deeplearning.ai/chatgpt-prompt-dev
+  332  mkdir -p learning/deeplearning.ai/chatgpt-prompt-dev
+  333  mv projects/course learning/deeplearning.ai/chatgpt-prompt-dev
+  334  cd projects/
+  335  cd ..
+  336  cd projects/course
+  337  cd learning/deeplearning.ai/chatgpt-prompt-dev/
+  338  ls
+  339  cd course/
+  340  ls
+  341  cd ..
+  342  mv course/explore/ explore
+  343  ls
+  344  cd ~/learning
+  345  ls
+  346  mkdir mit
+  347  cd mit
+  348  mkdir 6.0001
+  349  ls
+  350  cd 6.0001/
+  351  touch notes.ipynb
+  352  ls
+  353  code .
+  354  cd ~/learning
+  355  history
+  356  history > touch commands.txt
+  357  history > commands.txt
